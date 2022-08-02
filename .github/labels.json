@@ -1,0 +1,97 @@
+[
+  {
+    "name": "기획",
+    "color": "81d167",
+    "description": "기획 관련"
+  },
+  {
+    "name": "신규",
+    "color": "fbca04",
+    "description": "계획에 없던 새로운 이슈"
+  },
+  {
+    "name": "버그",
+    "color": "FF5656",
+    "description": "버그"
+  },
+  {
+    "name": "문서",
+    "color": "B8B8B8",
+    "description": "document"
+  },
+  {
+    "name": "개선",
+    "color": "D1F5C5",
+    "description": "리팩토링"
+  },
+  {
+    "name": "논의",
+    "color": "B6B1CB",
+    "description": "논의 사항 및 제안 사항"
+  },
+  {
+    "name": "기능",
+    "color": "EFF5C5",
+    "description": "새로운 기능 추가"
+  },
+  {
+    "name": "환경",
+    "color": "FEFFE3",
+    "description": "chore 작업"
+  },
+  {
+    "name": "운영",
+    "color": "CBB1C6",
+    "description": "운영 관련"
+  },
+  {
+    "name": "P1",
+    "color": "FF6028",
+    "description": "이슈 중요도 1순위 및 PR 1days"
+  },
+  {
+    "name": "P2",
+    "color": "FF8C28",
+    "description": "이슈 중요도 2순위 및 PR 2days"
+  },
+  {
+    "name": "P3",
+    "color": "FFC228",
+    "description": "이슈 중요도 3순위 및 PR 3days"
+  },
+  {
+    "name": "FE",
+    "color": "FFE2A1",
+    "description": "프론트엔드 이슈"
+  },
+  {
+    "name": "BE",
+    "color": "A1BCFF",
+    "description": "백엔드 이슈"
+  },
+  {
+    "name": "서비스",
+    "color": "22459C",
+    "description": "서비스 관련"
+  },
+  {
+    "name": "테스트",
+    "color": "B4CBB1",
+    "description": "테스트 관련"
+  },
+  {
+    "name": "백로그",
+    "color": "7B7EEE",
+    "description": "추후 진행될 백로그"
+  },
+  {
+    "name": "협업",
+    "color": "96CBC3",
+    "description": "다른 부서 관련"
+  },
+  {
+    "name": "답변대기",
+    "color": "45200D",
+    "description": "답변 대기 상태"
+  }
+]
