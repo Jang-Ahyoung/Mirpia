@@ -1,5 +1,10 @@
 [
   {
+    "name": "에픽",
+    "color": "C5DEF5",
+    "description": "에픽"
+  },
+  {
     "name": "기획",
     "color": "81d167",
     "description": "기획 관련"
