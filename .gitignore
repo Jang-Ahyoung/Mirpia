@@ -1,0 +1,14 @@
+# build
+dist/
+.cache/
+.parcel-cache
+
+# dependencies
+node_modules/
+
+# local
+.DS_Store
+.env
+
+# testing
+coverage/
