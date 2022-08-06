@@ -1,0 +1,24 @@
+{
+  "name": "mirpia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fix": "yarn fix:eslint && yarn fix:prettier",
+    "fix:eslint": "eslint --fix .",
+    "fix:prettier": "prettier --write .",
+    "lint": "yarn lint:eslint && yarn lint:prettier",
+    "lint:eslint": "eslint --quiet .",
+    "lint:prettier": "prettier --check ."
+  },
+  "repository": "https://github.com/Jang-Ahyoung/Mirpia.git",
+  "author": "Ahyoung-Jang <wegotthelove27@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.7.1"
+  }
+}
