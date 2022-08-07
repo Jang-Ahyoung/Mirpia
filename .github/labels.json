@@ -2,7 +2,7 @@
   {
     "name": "에픽",
     "color": "C5DEF5",
-    "description": "에픽"
+    "description": "스프린트별 중요 과제"
   },
   {
     "name": "기획",
@@ -12,7 +12,7 @@
   {
     "name": "신규",
     "color": "fbca04",
-    "description": "계획에 없던 새로운 이슈"
+    "description": "계획에 없던 새로운 에픽 및 이슈"
   },
   {
     "name": "버그",
@@ -22,12 +22,12 @@
   {
     "name": "문서",
     "color": "B8B8B8",
-    "description": "document"
+    "description": "문서 작성 및 업데이트"
   },
   {
     "name": "개선",
     "color": "D1F5C5",
-    "description": "리팩토링"
+    "description": "코드 리팩토링"
   },
   {
     "name": "논의",
@@ -37,17 +37,17 @@
   {
     "name": "기능",
     "color": "EFF5C5",
-    "description": "새로운 기능 추가"
+    "description": "새로운 기능 추가 개발"
   },
   {
-    "name": "환경",
+    "name": "chore",
     "color": "FEFFE3",
-    "description": "chore 작업"
+    "description": "프로젝트 작업 환경 개선"
   },
   {
     "name": "운영",
     "color": "CBB1C6",
-    "description": "운영 관련"
+    "description": "서비스 운영 및 CI/CD 관련"
   },
   {
     "name": "P1",
@@ -75,9 +75,9 @@
     "description": "백엔드 이슈"
   },
   {
-    "name": "서비스",
+    "name": "스타일",
     "color": "22459C",
-    "description": "서비스 관련"
+    "description": "css styling"
   },
   {
     "name": "테스트",
@@ -92,11 +92,11 @@
   {
     "name": "협업",
     "color": "96CBC3",
-    "description": "다른 부서 관련"
+    "description": "코드 및 개발 협업 관련"
   },
   {
     "name": "답변대기",
     "color": "45200D",
-    "description": "답변 대기 상태"
+    "description": "코멘트 답변 대기 상태"
   }
 ]
