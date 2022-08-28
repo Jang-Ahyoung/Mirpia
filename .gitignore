@@ -1,1 +1,17 @@
-node_modules
+# build
+dist/
+.cache/
+.parcel-cache
+
+# dependencies
+node_modules/
+
+# local
+.DS_Store
+.env
+
+# logs
+*.log
+
+# testing
+coverage/
